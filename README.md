@@ -36,3 +36,28 @@ Resume-Analyzer
 
 ```bash
 pip install -r requirements.txt
+resume-analyzer/
+│
+├── DATA/
+│   └── roles.json
+│
+├── REPORTS/
+│   └── analysis_report.txt
+│
+├── RESUME/
+│   └── sample_resume.pdf
+│
+├── SRC/
+│   ├── resume_reader.py
+│   ├── skill_extractor.py
+│   ├── analyzer.py
+│   ├── roadmap.py
+│   └── report_generator.py
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── DESIGN.md
+├── PROBLEM_STATEMENT.md
+├── LICENSE
+└── .gitignore
