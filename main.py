@@ -18,7 +18,7 @@ for skill in skills:
     print("-", skill)
 
 # roles.json read karna
-with open("roles.json", "r") as file:
+with open("DATA/roles.json", "r") as file:
     roles = json.load(file)
 
 role_list = list(roles.keys())
