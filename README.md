@@ -59,5 +59,22 @@ resume-analyzer/
 ├── README.md
 ├── DESIGN.md
 ├── PROBLEM_STATEMENT.md
-├── LICENSE
-└── .gitignore
+
+## Sample Output
+
+Skills Found:
+- Python
+- Git
+
+Match Score:
+40%
+
+Missing Skills:
+- SQL
+- Flask
+- Pandas
+
+Learning Roadmap:
+Week 1: Learn SQL
+Week 2: Learn Flask
+Week 3: Learn Pandas
